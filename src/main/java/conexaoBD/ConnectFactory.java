@@ -10,7 +10,7 @@ public class ConnectFactory {
     private static String porta = "3306";
     private static String db = "aquaControl";
     private static String usuario = "root";
-    private static String senha = "anima123";
+    private static String senha = "123";
                         
     public static Connection obtemConexao(){
         try{
